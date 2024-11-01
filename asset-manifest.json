@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Personal-Tracker-Website/static/css/main.1e372243.css",
+    "main.js": "/Personal-Tracker-Website/static/js/main.2b20dd24.js",
+    "static/js/453.55322e4f.chunk.js": "/Personal-Tracker-Website/static/js/453.55322e4f.chunk.js",
+    "index.html": "/Personal-Tracker-Website/index.html",
+    "main.1e372243.css.map": "/Personal-Tracker-Website/static/css/main.1e372243.css.map",
+    "main.2b20dd24.js.map": "/Personal-Tracker-Website/static/js/main.2b20dd24.js.map",
+    "453.55322e4f.chunk.js.map": "/Personal-Tracker-Website/static/js/453.55322e4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e372243.css",
+    "static/js/main.2b20dd24.js"
+  ]
+}
