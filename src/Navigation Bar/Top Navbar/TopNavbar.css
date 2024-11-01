@@ -1,0 +1,28 @@
+.circle {
+    border-radius: 100px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-item-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-align-center {
+    align-items: center;
+}
+
+.flex-just-cont-space-between {
+    justify-content: space-between;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.gap-10 {
+    gap: 10px;
+}

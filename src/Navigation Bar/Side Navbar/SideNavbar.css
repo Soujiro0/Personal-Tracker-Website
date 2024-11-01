@@ -1,0 +1,93 @@
+.text-s {
+    font-size: 12px;
+    text-align: center;
+}
+
+.active{
+    color: #2894FA;
+    
+    h1 {
+        font-weight: 500;
+    }
+
+    svg {
+        stroke: #2894FA;
+        fill:#2894FA;
+
+        path {
+            fill: #2894FA;
+        }
+    }
+}
+
+.inactive {
+    color: #CBCBCB;
+
+    h1 {
+        font-weight: normal;
+    }
+
+    svg {
+        stroke: #CBCBCB;
+        fill:#CBCBCB;
+
+        path {
+            fill: #CBCBCB;
+        }
+    }
+}
+
+.text-deco-none {
+    text-decoration: none;
+}
+
+.bg-accent {
+    background-color: #2894FA;
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+.nav-size {
+    min-height: 100vh;
+    height: 100%;
+    width: 110px;
+}
+
+.left-side-position {
+    left: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-just-cont-center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-start {
+    align-items: start;
+}
+
+
+.border-r-right {
+    border-radius: 0 10px 10px 0;
+}
+
+.trans-5s-ease {
+    transition: all 0.5s ease;
+}
+
+.p-10 {
+    padding: 10px;
+}
